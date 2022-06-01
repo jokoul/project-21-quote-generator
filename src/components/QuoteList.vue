@@ -25,6 +25,7 @@ export default {
   padding: 32px;
   max-width: 720px;
   margin: 0 auto;
+  margin-bottom: 13.5rem;
 
   .quote {
     background-color: var(--light);
